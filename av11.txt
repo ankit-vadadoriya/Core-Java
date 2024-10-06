@@ -1,0 +1,3 @@
+This is a first file from this java course 
+Okay now bye!
+This is a...bye!
